@@ -1,0 +1,4 @@
+﻿# Add project dependencies here
+# Example: pandas
+# Example: scikit-learn
+# Example: streamlit
