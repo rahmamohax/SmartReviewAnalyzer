@@ -33,8 +33,12 @@ Given a user review, the system should:
 
 ## 📁 Dataset
 
-We use a labeled sentiment dataset (binary classification):
-- Yelp / Amazon / IMDb reviews dataset (or combined dataset)
+Download the dataset from:
+https://www.kaggle.com/datasets/mexwell/yelp-review-dataset/data
+
+Place the files in `data/raw/` before running the notebooks.
+
+---
 
 ### Label Mapping:
 - Positive → 1 (4–5 stars)
