@@ -102,7 +102,8 @@ Both models are evaluated using:
 ### Model Comparison:
 | Model               | Accuracy | F1-score |
 |--------------------|----------|----------|
-| Logistic Regression| XX%      | XX%      |
+| Logistic Regression| 95%      | 95%      |
+| Naive Bayes        | 91%      | 91%      |
 | LSTM / Transformer | XX%      | XX%      |
 
 ---
